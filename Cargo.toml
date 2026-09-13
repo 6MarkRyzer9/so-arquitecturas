@@ -1,0 +1,3 @@
+[workspace]
+members = ["capas", "contenedores"]
+resolver = "2"
