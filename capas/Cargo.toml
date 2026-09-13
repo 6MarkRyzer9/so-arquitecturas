@@ -1,0 +1,7 @@
+[package]
+name = "capas"
+version = "0.1.0"
+edition = "2021"
+description = "Simulación de un sistema operativo por capas (estilo THE de Dijkstra)"
+
+[dependencies]
